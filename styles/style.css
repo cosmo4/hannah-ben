@@ -293,8 +293,11 @@ footer {
 
 /* Media query for mobile devices */
 @media screen and (max-width: 767px) {
+    /* img {
+        width: 100%;
+    } */
     body {
-        min-width: 100%;
+        min-width: 90%;
     }
 
     header a {
