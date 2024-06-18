@@ -178,6 +178,7 @@ body {
 .meeting {
     text-align: center;
     margin-left: 25%;
+    margin-top: 50px;
     margin-right: 25%;
 }
 
@@ -414,7 +415,7 @@ footer {
 
     .links {
         grid-template-columns: 1fr 1fr;
-        grid-template-rows: auto;
+        grid-template-rows: 70% 100px 100px;
         margin: 0;
     }
 
